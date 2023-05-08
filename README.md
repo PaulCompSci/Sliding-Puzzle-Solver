@@ -1,5 +1,5 @@
 
-# Project Title
+# Sliding puzzle solver
 
 ## Desription 
 #### Team member :  
